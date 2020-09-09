@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aleflix</string>
+    <string name="title">Hause of Cards</string>
+    <string name="episodio">S1:E2</string>
+    <string name="menu_avaliacoes">Menu avaliações</string>
+    <string name="menu_volume">Menu volume</string>
+    <string name="menu_episodios">Menu episódios</string>
+    <string name="menu_mensagem">Menu mensagem</string>
+</resources>
